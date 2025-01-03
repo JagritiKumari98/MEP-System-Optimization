@@ -1,5 +1,4 @@
-# MEP-System-Optimization
-This project demonstrates how machine learning optimizes MEP systems.
+
 # MEP System Optimization
 This project demonstrates how machine learning (ML) can optimize Mechanical, Electrical, and Plumbing (MEP) systems. 
 
